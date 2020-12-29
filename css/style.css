@@ -4,7 +4,6 @@
 }
 
 
-
 @media only screen and (max-width: 600px) {
     header
     {
@@ -31,7 +30,7 @@
         color:#04192e;
         font-family: 'Roboto', sans-serif;
         letter-spacing: 2px;
-        margin: 0 30px 0 30px;
+        margin: 0 15px 0px 15px;
         font-size: 18px;
     }
     main
@@ -188,7 +187,7 @@
         display: flex;
         justify-content:center;
         flex-wrap: wrap;
-        width: 420px;
+        width: 380px;
         background:  rgb(255, 255, 255);
         height: 380px;
         align-self: center;
@@ -244,7 +243,7 @@
     {
         display: flex;
         justify-content:center;
-        width: 420px;
+        width: 380px;
         background:   rgb(255, 255, 255);
         height: 350px;
         align-self: center;
@@ -288,7 +287,7 @@
     {
         display: flex;
         justify-content:center;
-        width: 420px;
+        width: 380px;
         background: #6ab982;
         height: 350px;
         align-self: center;
