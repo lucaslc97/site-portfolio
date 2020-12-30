@@ -23,14 +23,17 @@
         align-items: center;
         box-shadow: 0px 5px 5px black;
     }
-    
+    #skill-btn
+    {
+        margin: 0 10px 0 10px;
+    }
     header ul a 
     {
         text-decoration: none;
         color:#04192e;
         font-family: 'Roboto', sans-serif;
         letter-spacing: 2px;
-        margin: 0 15px 0px 15px;
+        margin: 0 5px 0px 5px;
         font-size: 18px;
     }
     main
